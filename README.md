@@ -5,3 +5,7 @@ From the `lishy/lishy` directory, run `uv sync` then `uv run hy -i lis.hy` to st
 
 ## tldr
 ![lishy](https://github.com/hilalmufti/lishy/blob/main/lishy.gif)
+
+## acknowledgements
+- peter norvig's `lis.py`
+- sicp metacircular evaluator
